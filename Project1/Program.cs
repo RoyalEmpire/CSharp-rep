@@ -12,7 +12,7 @@ namespace Project1
         static void Main(string[] args)
         {
             var len = 100;
-            Turtle.Speed = 7;
+            Turtle.Speed = 9;
 
             //рисуем тело домика
             Turtle.Turn(90);
